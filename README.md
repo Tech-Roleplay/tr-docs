@@ -1,2 +1,1 @@
-# tr-docs
-Description for Techniale Framework
+# Documentation for the TRCore Framework 

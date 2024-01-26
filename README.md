@@ -1,1 +1,2 @@
-# Documentation for the TRCore Framework 
+# The Framework & trcore
+
